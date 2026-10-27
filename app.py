@@ -41,7 +41,7 @@ def init_db():
 init_db()
 
 # Lista de los 5 integrantes del grupo
-TEAM_MEMBERS = ["Student 1", "Student 2", "Student 3", "Student 4", "Student 5"]
+TEAM_MEMBERS = ["Carlos Castañeda", "Juan Suarez", "Yirzon Contreras", "David Jamaica", "Daniel Moreno"]
 
 # ---------------------------------------------------------
 # 2. ENCABEZADO Y EXPLICACIÓN GRAMATICAL (Para el Profesor)
