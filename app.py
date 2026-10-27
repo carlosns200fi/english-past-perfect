@@ -43,18 +43,16 @@ init_db()
 # Lista de los 5 integrantes del grupo
 TEAM_MEMBERS = ["Carlos Castañeda", "Juan Suarez", "Yirzon Contreras", "David Jamaica", "Daniel Moreno"]
 
-# ---------------------------------------------------------
+# ------------------------------------------------------------------------------
 # 2. ENCABEZADO Y EXPLICACIÓN GRAMATICAL (Para el Profesor)
-# ---------------------------------------------------------
-st.title("🎓 Our Lives Before University")
-st.subheader("Interactive Past Perfect Showcase")
+# ------------------------------------------------------------------------------
+st.title("🎓 What We Had Done Before Coming to Class")
+st.subheader("English Course Presentation — Past Perfect Tense")
 
-st.info(
-    "💡 **Grammar Focus — Past Perfect:** "
-    "`Subject + had + past participle...`\n\n"
-    "This interactive platform displays 2 personal activities per group member describing "
-    "what they **had done** or **had experienced** before entering university."
-)
+st.info("""
+💡 **Grammar Focus — Past Perfect:** *Subject + HAD + Past Participle*  
+This interactive platform displays two past perfect statements for each member, showing the actions they **had completed** (eating, working, commuting) **before arriving at university/class**.
+""")
 
 st.divider()
 
